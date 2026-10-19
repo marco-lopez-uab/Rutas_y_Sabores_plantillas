@@ -1,0 +1,6 @@
+[run]
+source = rutas_y_sabores
+omit = 
+    tests/*
+    autoapp.py
+
